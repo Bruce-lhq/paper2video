@@ -1,0 +1,4 @@
+manim
+PyMuPDF
+jsonschema
+edge-tts
